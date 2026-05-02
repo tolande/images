@@ -2,4 +2,4 @@ This repository hosts stable links for the Fabric Suits! textile education proje
 
 For more information on Fabric Suits!, please find the website link here:
 
-For image credits, please find a bibliography here: 
+For image credits, please find a bibliography at _FabricSuits_ImageCredits.pdf above. 
